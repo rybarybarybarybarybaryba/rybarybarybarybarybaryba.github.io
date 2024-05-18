@@ -1,2 +1,0 @@
-# rybarybarybarybarybaryba.github.io
-JS
